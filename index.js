@@ -22,5 +22,11 @@ function selectDifferentDrivers(drivers, funct) {
     return funct(drivers);
 }
 
+// function selectDifferentDrivers(driversPlaceHolder,functionPlaceHolder){
+//     let drivers = functionPlaceHolder(driversPlaceHolder)
+//     return drivers
+    
+// }
+
 
 
